@@ -1,0 +1,17 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.menu-bar
+{
+    background: rgb(0,128,0,0.1);
+    text-align: center;
+}
